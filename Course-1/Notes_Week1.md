@@ -18,3 +18,21 @@ Someone who collects, transforms, and organizes data in order to help make infor
     -   Analyze
     -   Share
     -   Act 
+
+* Where can you apply your skills?
+    -   Finance
+    -   Healthcare
+    -   Communications
+    -   Government
+    -   Consumer Products, etc.
+
+* **Job Success** = Computer + Your Brain + Your Skills + Your Traits
+
+* Business need a way to control all that huge amount of data so they can use it to 
+    -   Improve processes
+    -   Identify opportuinities and trends
+    -   Launch new products
+    -   Serve customers
+    -   Make thoughtful decisions
+
+* **Analysis** - turning data into insights
