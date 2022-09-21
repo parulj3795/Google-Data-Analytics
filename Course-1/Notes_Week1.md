@@ -11,28 +11,34 @@ The collection, transformation, and organisation of data in order to draw conclu
 ## Data Analyst
 Someone who collects, transforms, and organizes data in order to help make informed decisions. *HUGE DEMAND*
 
-* Processes for data analysis - 
-    -   Ask
-    -   Prepare
-    -   Process
-    -   Analyze
-    -   Share
-    -   Act 
+### Processes for data analysis - 
+-   Ask
+-   Prepare
+-   Process
+-   Analyze
+-   Share
+-   Act 
 
-* Where can you apply your skills?
-    -   Finance
-    -   Healthcare
-    -   Communications
-    -   Government
-    -   Consumer Products, etc.
+### Where can you apply your skills?
+-   Finance
+-   Healthcare
+-   Communications
+-   Government
+-   Consumer Products, etc.
 
-* **Job Success** = Computer + Your Brain + Your Skills + Your Traits
+### **Job Success** = Computer + Your Brain + Your Skills + Your Traits
 
-* Business need a way to control all that huge amount of data so they can use it to 
-    -   Improve processes
-    -   Identify opportuinities and trends
-    -   Launch new products
-    -   Serve customers
-    -   Make thoughtful decisions
+### Business need a way to control all that huge amount of data so they can use it to 
+-   Improve processes
+-   Identify opportuinities and trends
+-   Launch new products
+-   Serve customers
+-   Make thoughtful decisions
 
-* **Analysis** - turning data into insights
+### Analysis - turning data into insights
+
+## Data Science 
+-   Machine Learning: Automate many decisions under uncertainity
+-   Statistics: Few important decisions under an uncertainity
+-   Analytics: Understanding the data
+
