@@ -11,6 +11,16 @@ The collection, transformation, and organisation of data in order to draw conclu
 ## Data Analyst
 Someone who collects, transforms, and organizes data in order to help make informed decisions. *HUGE DEMAND*
 
+## Data Science 
+-   Machine Learning: Automate many decisions under uncertainity
+-   Statistics: Few important decisions under an uncertainity
+-   Analytics: Understanding the data
+
+## Data Ecosystems
+The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data.
+
+****
+
 ### Processes for data analysis - 
 -   Ask
 -   Prepare
@@ -36,9 +46,3 @@ Someone who collects, transforms, and organizes data in order to help make infor
 -   Make thoughtful decisions
 
 ### Analysis - turning data into insights
-
-## Data Science 
--   Machine Learning: Automate many decisions under uncertainity
--   Statistics: Few important decisions under an uncertainity
--   Analytics: Understanding the data
-
