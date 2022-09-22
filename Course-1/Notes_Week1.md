@@ -1,6 +1,7 @@
 # Week 1
 
-Data is a collection of *facts*, including, but not limited to, pictures, numbers, videos, words, measurements, observations, etc. 
+## Data 
+A collection of *facts*, including, but not limited to, pictures, numbers, videos, words, measurements, observations, etc. 
 
 * Google processes 40,000 searches every second.
 * Data - World's most valuable resource
@@ -22,6 +23,9 @@ Creating new ways of modeling and understanding the unknown by using raw data.
 
 ## Data Ecosystems
 The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data.
+
+## Dataset
+A collection of data that can be manipulated or analyzed as one unit
 
 ****
 
