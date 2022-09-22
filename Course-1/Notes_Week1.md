@@ -25,28 +25,38 @@ The various elements that interact with one another in order to produce, manage,
 
 ****
 
-### Processes for data analysis - 
--   Ask
--   Prepare
--   Process
--   Analyze
--   Share
--   Act 
+* Processes for data analysis - 
+    -   **Ask** questions and define the problem. 
+        -   Business Challenge/Objective/Question
+    -   **Prepare** data by collecting and storing the information. 
+        -   Data generation, collection, storage, and data management
+    -   **Process** data by cleaning and checking the information. 
+        -   Data cleaning/data integrity
+    -   **Analyze** data to find patterns, relationships, and trends. 
+        -   Data exploration, visualization, and analysis
+    -   **Share** data with your audience. 
+        -   Communicating and interpreting results
+    -   **Act** on the data and use the analysis results. 
+        -   Putting your insights to work to solve the problem
 
-### Where can you apply your skills?
--   Finance
--   Healthcare
--   Communications
--   Government
--   Consumer Products, etc.
+* Where can you apply your skills?
+    -   Finance
+    -   Healthcare
+    -   Communications
+    -   Government
+    -   Consumer Products, etc.
 
-### **Job Success** = Computer + Your Brain + Your Skills + Your Traits
+* **Job Success** = Computer + Your Brain + Your Skills + Your Traits
 
-### Business need a way to control all that huge amount of data so they can use it to 
--   Improve processes
--   Identify opportuinities and trends
--   Launch new products
--   Serve customers
--   Make thoughtful decisions
+* Business need a way to control all that huge amount of data so they can use it to 
+    -   Improve processes
+    -   Identify opportuinities and trends
+    -   Launch new products
+    -   Serve customers
+    -   Make thoughtful decisions
 
-### Analysis - turning data into insights
+* Analysis - turning data into insights
+
+* Data-driven decision-making - Using facts to guide business strategy.
+    -   First question - What does a company exactly want?
+    -   Once the problem is defined, find data and analyze it to uncover trends, patterns, and relationships.
