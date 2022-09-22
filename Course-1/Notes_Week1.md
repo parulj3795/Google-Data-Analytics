@@ -2,16 +2,20 @@
 
 Data is a collection of *facts*, including, but not limited to, pictures, numbers, videos, words, measurements, observations, etc. 
 
-## Data Analysis
-The collection, transformation, and organisation of data in order to draw conclusions, make predictions, and drive informed decision-making.
-
 * Google processes 40,000 searches every second.
 * Data - World's most valuable resource
 
+## Data Analysis
+The collection, transformation, and organisation of data in order to draw conclusions, make predictions, and drive informed decision-making.
+
 ## Data Analyst
-Someone who collects, transforms, and organizes data in order to help make informed decisions. *HUGE DEMAND*
+Someone who collects, transforms, and organizes data in order to help make informed decisions. Analysts find answers to existing questions by creating insights from data sources. *HUGE DEMAND*
+
+## Data Analytics
+The science of data. It's a very broad concept that encompasses everything from the job of managing and using data to the tools and methods that data workers use each and every day. 
 
 ## Data Science 
+Creating new ways of modeling and understanding the unknown by using raw data.
 -   Machine Learning: Automate many decisions under uncertainity
 -   Statistics: Few important decisions under an uncertainity
 -   Analytics: Understanding the data
