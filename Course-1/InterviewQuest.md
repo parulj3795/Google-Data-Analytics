@@ -23,12 +23,23 @@ Before responding to the question, you consider each step of the data life cycle
 Consider your learning about the steps of the data life cycle and reflect on the hiring manager’s request. Review the following questions to help guide your thinking: 
 
 *   What kind of data should they gather? 
+    *    The company needs to gather data that shows the number of people vs their preferred ice-cream flavor.
+*   **How should they gather this data?** 
     *   The company can collect data in one of two ways - 
         1.  They can either take a survey of people directly asking them about their preferred ice-cream flavor.
         2.  Or they can keep a count of number of each flavors sold in a particular time period. 
-*   **How should they gather this data?** 
-    *   They can either 
+    * **Coursera Answer -** 
+         A good reflection on this topic would address that—to use their data successfully—the ice cream company must: 
+        *  Figure out what data they need and where they can get it
+        *    Collect the data, and be sure of what they will (and won’t) use it for.
+        *   Consider how to secure the data and deal with old data that is no longer useful.
+
+        As a data analyst, these are the types of questions you should always seek to answer about your data. From considering data collection before a project begins (in the plan phase) to removing data with data erasure software (in the destroy phase), data analysts must apply these concepts to effectively approach each data project.
 *   Where will the data live? How will they store the data?
+    * The company should invest in a database.
 *   Once they have the data, how will they use it? 
+    * They should hire a data analyst who can process the data and bring out the required result
 *   How do they keep their data secure and protected? 
+    * They shoudl not take any personal information, and must have a data security software.
 *   What should they do with old data? What are their options?
+    * The company should archive the data once the necessary results are found. This data should later be deleted if it's not in use for a long period.
