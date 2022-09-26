@@ -28,8 +28,16 @@
 
 **Database:** A collection of data stored in a computer system.
 
+**Formula:** A set of instructions used to perform a calculation using the data in a spreadsheet
+
+**Function:** A preset command that automatically performs a specified process or task using the data in a spreadsheet
+
 **Gap analysis:** A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
 
+**Query language:** A computer programming language used to communicate with a database
+
 **Root cause:** The reason why a problem occurs
+
+**Stakeholders:** Pepole who have invested time and resources into a project and are interested in the outcomes. 
 
 **Technical mindset:** The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
