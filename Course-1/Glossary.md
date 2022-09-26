@@ -26,6 +26,8 @@
 
 **Dataset:** A collection of data that can be manipulated or analyzed as one unit
 
+**Database:** A collection of data stored in a computer system.
+
 **Gap analysis:** A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
 
 **Root cause:** The reason why a problem occurs
