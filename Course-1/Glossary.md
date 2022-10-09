@@ -1,9 +1,12 @@
+## A
 **Analytical skills:** Qualities and characteristics associated with using facts to solve problems
 
 **Analytical thinking:** The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
 
+## C
 **Context:** The condition in which something exists or happens
 
+## D
 **Data:** A collection of facts
 
 **Data analysis:** The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
@@ -28,16 +31,24 @@
 
 **Database:** A collection of data stored in a computer system.
 
+## F
 **Formula:** A set of instructions used to perform a calculation using the data in a spreadsheet
 
 **Function:** A preset command that automatically performs a specified process or task using the data in a spreadsheet
 
+## G
 **Gap analysis:** A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+
+## Q
+**Query:** A request for data or Information from a database.
 
 **Query language:** A computer programming language used to communicate with a database
 
+## R
 **Root cause:** The reason why a problem occurs
 
+## S
 **Stakeholders:** Pepole who have invested time and resources into a project and are interested in the outcomes. 
 
+## T
 **Technical mindset:** The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
