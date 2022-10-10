@@ -50,5 +50,7 @@
 ## S
 **Stakeholders:** Pepole who have invested time and resources into a project and are interested in the outcomes. 
 
+**Syntax:cf** is the predetermined structure of a language that includes all required words, symbols, and punctuation, as well as their proper placement. 
+
 ## T
 **Technical mindset:** The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
