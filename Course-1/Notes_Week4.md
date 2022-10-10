@@ -33,3 +33,13 @@
 ![example](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/YFUj-vGxT4aVI_rxsY-GGg_0a4b434ac7c14176a192d0f65be62142_Screen-Shot-2020-11-11-at-4.32.20-PM.png?expiry=1665532800000&hmac=cew0bmsIidRjcT1HaE2j4l14Q6Mr25JiIRdm9evuJ0g)
 * Assign a new alias using ```AS```
 * Not equal to is written as ```<>```
+
+### Data Visualization
+
+* Data visualization is the graphical representation of information.
+* Data analysts use data visualizations to explain complex data quickly, reinforce data analysis, and create interesting graphs and charts.
+* Create visualizations that make your data easy to understand and interesting to look at.
+* There are many different tools you can use for data visualization. 
+    -   You can use the visualizations tools in your spreadsheet to create simple visualizations such as line and bar charts.
+    -   You can use more advanced tools such as Tableau that allow you to integrate data into dashboard-style visualizations. 
+    -   If you’re working with the programming language R you can use the visualization tools in RStudio.
