@@ -5,6 +5,9 @@
 
 **Attribute:** A characteristic or quality of data used to label a column in a table
 
+## B
+**Business Task:** The question or problem that data analysis answers for a business.
+
 ## C
 **Context:** The condition in which something exists or happens
 
@@ -37,6 +40,8 @@
 **Formula:** A set of instructions used to perform a calculation using the data in a spreadsheet
 
 **Function:** A preset command that automatically performs a specified process or task using the data in a spreadsheet
+
+**Fairness:** Ensuring that your analysis doesn't create or reinforce bias
 
 ## G
 **Gap analysis:** A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
