@@ -79,3 +79,4 @@ Explores different data sources to find out what they have in common.
 
 *   Small data - Excel Sheet
 *   Big data - SQL
+*   Small data involves a small number of specific metrics over a shorter period of time. It’s effective for analyzing day-to-day decisions. Big data involves larger and less specific datasets and focuses on change over a long period of time. It’s effective for analyzing more substantial decisions.
