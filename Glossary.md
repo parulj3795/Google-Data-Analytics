@@ -92,6 +92,8 @@
 ## O
 **Observation:** The attributes that describe a piece of data contained in a row of a table
 
+**Operator:** A symbol that names the type of operation or calculation to be performed.
+
 ****
 
 ## P
@@ -100,6 +102,8 @@
 **Pivot chart:** A chart created from the fields in a pivot table
 
 **Pivot table:** A data summarization tool used to sort, reorganize, group, count, total, or average data
+
+**Problem Domain:** The specific area of analysis that encompasses every activity affecting or affected by the problem.
 
 ****
 
@@ -144,7 +148,9 @@
 
 **Specific question:** A question that is simple, significant, and focused on a single topic or a few closely related ideas
 
-**Operator:** A symbol that names the type of operation or calculation to be performed.
+**Structured Thinking:** The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportuinities, and identifying the options. 
+
+**Scope of Work(SOW):** An agreed upon outline of the work you're going to perform on a project. 
 
 ****
 
