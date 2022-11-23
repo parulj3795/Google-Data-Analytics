@@ -159,6 +159,8 @@
 
 **Time-bound question:** A question that specifies a timeframe to be studied.
 
+**Turnover Rate:** The rate at which employees leave a company
+
 ****
 
 ## U
