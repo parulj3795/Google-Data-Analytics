@@ -9,12 +9,16 @@
 
 **Algorithm:** A process or set of rules followed for a specific task
 
+**AVERAGE:** A spreadsheet function that returns an average of the values from a selected range
+
 ****
 
 ## B
 **Business Task:** The question or problem that data analysis answers for a business.
 
 **Big data:** Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems
+
+**Borders:** Lines that can be added around two or more cells on a spreadsheet
 
 ****
 
@@ -24,6 +28,8 @@
 **Context:** The condition in which something exists or happens
 
 **Cell Reference:** A cell or range of cells in a worksheet that can be used in a formula.
+
+**COUNT:** A spreadsheet function that counts the number of cells in a range that meet a specific criteria
 
 ****
 
@@ -61,6 +67,11 @@
 
 ****
 
+## E
+**Equation:** A calculation that involves addition, subtraction, multiplication, or division (also called a math expression)
+
+****
+
 ## F
 **Formula:** A set of instructions used to perform a calculation using the data in a spreadsheet
 
@@ -68,10 +79,19 @@
 
 **Fairness:** Ensuring that your analysis doesn't create or reinforce bias
 
+**Fill handle:** A box in the lower-right-hand corner of a selected spreadsheet cell that can be dragged through neighboring cells in order to continue an instruction
+
+**Filtering:** The process of showing only the data that meets a specified criteria while hiding the rest
+
 ****
 
 ## G
 **Gap analysis:** A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+
+****
+
+## H
+**Header:** The first row in a spreadsheet that labels the type of data in each column
 
 ****
 
@@ -87,12 +107,24 @@
 
 **Metric goal:** A measurable goal set by a company and evaluated using metrics
 
+**Math expression:** A calculation that involves addition, subtraction, multiplication, or division (also called an equation)
+
+**Math function:** A function that is used as part of a mathematical formula
+
+**MAX:** A spreadsheet function that returns the largest numeric value from a range of cells
+
+**MIN:** A spreadsheet function that returns the smallest numeric value from a range of cells
+
 ****
 
 ## O
 **Observation:** The attributes that describe a piece of data contained in a row of a table
 
 **Operator:** A symbol that names the type of operation or calculation to be performed.
+
+**Operator:** A symbol that names the operation or calculation to be performed
+
+**Order of operations:** Using parentheses to group together spreadsheet values in order to clarify the order in which operations should be performed
 
 ****
 
@@ -120,6 +152,8 @@
 
 ## R
 **Root cause:** The reason why a problem occurs
+
+**Reframing:** Restating a problem or challenge, then redirecting it toward a potential resolution
 
 **Relevant question:** A question that has significance to the problem to b e solved.
 
