@@ -4,7 +4,7 @@
 * What type of data is right for the question you're answering
 * Practical skills about how to extract, use, organise, and protect your data
 
-> Data collection considerations
+## Data collection considerations
 * How the data will be collected
 * Choose data sources
 * Decide what data to use
@@ -26,13 +26,17 @@
 
 **Population** - All possible data values in a certain dataset.
 
-In instances when collecting data from an entire population is challenging, data analysts may choose t  o use a sample.
+In instances when collecting data from an entire population is challenging, data analysts may choose to use a sample.
 
 **Sample** - A part of a population that is representative of the population.
 
 ![image](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/5TyGAFZrRi28hgBWa-Ytcg_a723a1a4d78b42e1bcb6ddd2178adc42_Screen-Shot-2020-12-14-at-2.19.22-PM.png?expiry=1672099200000&hmac=1q3V7KWoChx5Q9qWfkmbinJU5tp9BMZF7zZD_cezN4A)
 
 ****
+
+## Data Formats
+
+![image](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/lpSSp7kPSMqUkqe5D6jKhQ_d475227147854cadb95f7724129bc6f1_C3M1L2R1.png?expiry=1672099200000&hmac=NcrM8MO6-Wh5X9DkBqhfx9zKa4CBiNciA7LyHiyhEkw)
 
 **Discrete Data** - Data that is counted and has a limited number of values. Eg.
 - Number of people who visit a hospital on a daily basis (10, 20, 200)
@@ -73,9 +77,10 @@ In instances when collecting data from an entire population is challenging, data
 - Emails
 - Videos
 
+![image](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/bG2cUYmWTg6tnFGJli4OAQ_29c5e99b864645df8cb1f3c5900b3c3e_DA_C3M1L3R2.png?expiry=1672185600000&hmac=IDFgc0kUeyJcB6g-QofrsOxjWbJF1Dc3iXD6dKz_H2E)
+
 The star rating is an example of ordinal data because the number of stars are in order of how much each person liked the movie. It’s also an example of discrete data because a person has to choose a full star measure; given that half-stars weren’t an option.
 
-![image](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/lpSSp7kPSMqUkqe5D6jKhQ_d475227147854cadb95f7724129bc6f1_C3M1L2R1.png?expiry=1672099200000&hmac=NcrM8MO6-Wh5X9DkBqhfx9zKa4CBiNciA7LyHiyhEkw)
 
 **Qualitative Data** - Subjective and explanatory measures of qualities and characteristics.
 - Exercise activity most enjoyed
@@ -86,3 +91,33 @@ The star rating is an example of ordinal data because the number of stars are in
 - Percentage of board certified doctors who are women
 - Population of elephants in Africa
 - Distance from Earth to Mars
+
+****
+
+### Data Model
+A model that is used for organising data elements and how they relate to one another.
+
+### Data Elements
+Pieces of information, such as people's names, account numbers, and addresses.
+
+### What is data modeling?
+Data modeling is the process of creating diagrams that visually represent how data is organized and structured.  These visual representations are called data models.
+
+**Data Type** - A specific kind of data attribute that tells what kind of value the data is. For eg. Data types in a spreadsheet - Number, Text or String, Boolean
+
+****
+
+* When referring to spreadsheets - rows & columns. When talking about structured dataset, records & fields.
+<p align="center">
+Rows --> Records
+</p>
+
+<p align="center">
+Columns --> Fields
+</p>
+
+* Spreadsheets are powerful tools, allowing data analysts to make sense of large amounts of data with simple functions. The more comfortable you get with the different functions and features available in spreadsheets, the more quickly and effectively you’ll be able to clean, explore, process, and visualize data on the job!
+
+**Wide Data** - data in which every data subject has a single row with multiple columns to hold the values of various attributes of the subject.
+
+**Long Data** - data in which each row is one time point per subject, so each subject will have data in multiple rows.
